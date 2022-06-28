@@ -1,0 +1,15 @@
+ytm-pivot-bar-item-renderer:nth-of-type(2){
+    display: none;
+}
+.cbox.player-controls-pb{
+    padding-bottom: 1.6rem;
+}
+.cbox.player-controls-bottom{
+    padding-bottom: 1rem;
+}
+c3-material-button.compact.button-renderer:nth-of-type(5){
+    display: none;
+}
+c3-material-button.compact.button-renderer:nth-of-type(3){
+    display: none;
+}
