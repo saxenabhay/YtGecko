@@ -9,4 +9,4 @@ using https://github.com/mozilla/video-bg-play under addon code:MIT
 
 and https://github.com/mozilla/geckoview.
 
-Check out release to test out this app ;)
+Check out releases section to test out this app.
